@@ -2,8 +2,8 @@
   "name": "html5-placeholder-polyfill",
   "description": "HTML5-placeholder-polyfill for meteor",
   "homepage": "https://github.com/svub/HTML5-placeholder-polyfill",
-  "author": "Dirk Ginader https://github.com/ginader/HTML5-placeholder-polyfill, packaged by Sven Buschbeck https://github.com/svub/",
-  "version": "2.0.7",
+  "author": "Dirk Ginader, Sven Buschbeck (pack)",
+  "version": "2.0.7.1",
   "git": "https://github.com/svub/HTML5-placeholder-polyfill.git",
   "packages": {
     "modernizr-meteor": {}
